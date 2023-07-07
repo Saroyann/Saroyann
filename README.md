@@ -7,4 +7,5 @@
 <div align="center">
   <h4>Junior Full Stack Developer | Junior Mobile Developer</h4>
 </div>
+<h4><u>Tech Stack</u></h4>
 
