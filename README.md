@@ -7,6 +7,7 @@
 <div align="center">
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
+<br>
 <h3>Tech Stack</h3>
 
 <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="50px" height="50px"> <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="50px" height="50px">
