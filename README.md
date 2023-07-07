@@ -1,4 +1,7 @@
-<p style="text-align= center;">Hi, i am Saroyann 👋</p>
+<center>
+  Hi, i am Saroyann 👋
+</center>
+
 
 <img src="https://raw.githubusercontent.com/Saroyann/Saroyann/main/img/buat%20readme.jpg">
 
