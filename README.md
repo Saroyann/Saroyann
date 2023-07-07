@@ -37,10 +37,6 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 </p>
-<h3>My Social</h3>
-<p float="left">
-  <a src="https://web.facebook.com/people/Yiim/pfbid02tbs88UZ32QFCkk93NkELTk7RvTKhBgzL7FTefGFr8CXQR71kVVn4XiGFkJubjSuWl/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-</p>
 
  
 
