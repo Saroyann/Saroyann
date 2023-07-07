@@ -7,5 +7,5 @@
 <div align="center">
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
-<h3>__Tech Stack__</h3>
+<ins>Tech Stack</ins>
 
