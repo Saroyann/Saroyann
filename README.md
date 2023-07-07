@@ -9,5 +9,5 @@
 </div>
 <h3>Tech Stack</h3>
 
-<img src="https://img.icons8.com/?size=512&id=20909&format=png" width="100px" height="100px">
+<img src="https://img.icons8.com/?size=512&id=20909&format=png" width="70px" height="70px">
 
