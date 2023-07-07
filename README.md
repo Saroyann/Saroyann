@@ -1,11 +1,11 @@
 <div align="center">
-<h3>Hi, i am <b>Saroyann</b></h3>
+<h2>Hi, i am Saroyann</h2>
 </div>
 
 
 <img src="https://raw.githubusercontent.com/Saroyann/Saroyann/main/img/buat%20readme.jpg">
 <div align="center">
-  <h4>Junior Full Stack Developer | Junior Mobile Developer</h4>
+  <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
-<h4><u>Tech Stack</u></h4>
+<h3><u>Tech Stack</u></h3>
 
