@@ -9,9 +9,10 @@
 </div>
   <img align="right" src="https://giffiles.alphacoders.com/297/2970.gif">
   <h3 align="left">About Me</h3>
-  <h4>Hello I am Saroyann, i am a junior full stack developer and also junior mobile developer.
+  <h4>Hello I am Saroyann, i am a junior full stack developer and also a junior mobile developer.
       I also an Enginner Informatic student from STMIK Widya Cipta Dharma samarinda, i have so
       many hobbies like drawing,make music,reading,and ofcourse coding.</h4>
+      <h4>please don't mind to be my friend on my social media in my bio!</h4>
 <br>
 <h3>💻Languanges</h3>
 <p float="left">
