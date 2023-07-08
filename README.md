@@ -8,7 +8,7 @@
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
   <img width="240px" height="190px" align="right" src="https://giffiles.alphacoders.com/297/2970.gif">
-  <h3 align="left">About Me</h3>
+  <h3 align="left"><img src="https://img.icons8.com/?size=512&id=aFxfm4qI75vj&format=png" height="100px" width="100px">About Me</h3>
   
   <p align="left">Hello I am Saroyann, i am a junior full stack developer and also a junior mobile developer.
       I also an Enginner Informatic student from STMIK Widya Cipta Dharma samarinda, i have so
