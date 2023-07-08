@@ -1,6 +1,5 @@
 <div align="center">
-<h2>Hi, i am Saroyann, i am a junior full stack developer and also junior mobile developer.
-I like to learn something new and have so many hobbies.</h2>
+<h2>Hi, i am Saroyann</h2>
 </div>
 
 
@@ -10,7 +9,8 @@ I like to learn something new and have so many hobbies.</h2>
 </div>
   <img align="right" src="https://giffiles.alphacoders.com/297/2970.gif">
   <h3 align="left">About Me</h3>
-  <h4>Hello I am Saroyann,</h4>
+  <h4>Hello I am Saroyann, i am a junior full stack developer and also junior mobile developer.
+I like to learn something new and have so many hobbies.</h4>
 <br>
 <h3>💻Languanges</h3>
 <p float="left">
