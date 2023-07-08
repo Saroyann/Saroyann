@@ -7,7 +7,7 @@
 <div align="center">
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
-  <img width="340px" height="290px" align="right" src="https://giffiles.alphacoders.com/297/2970.gif">
+  <img width="240px" height="190px" align="right" src="https://giffiles.alphacoders.com/297/2970.gif">
   <h3 align="left">About Me</h3>
   
   <p align="left">Hello I am Saroyann, i am a junior full stack developer and also a junior mobile developer.
