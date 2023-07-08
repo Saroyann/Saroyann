@@ -9,11 +9,11 @@
 </div>
   <img align="right" src="https://giffiles.alphacoders.com/297/2970.gif">
   <h3 align="left">About Me</h3>
-  <br>
+  
   <h4>Hello I am Saroyann, i am a junior full stack developer and also a junior mobile developer.
       I also an Enginner Informatic student from STMIK Widya Cipta Dharma samarinda, i have so
       many hobbies like drawing,make music,reading,and ofcourse coding.</h4>
-<br>
+      
 <h3>💻Languanges</h3>
 <p float="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
