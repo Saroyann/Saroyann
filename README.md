@@ -1,5 +1,6 @@
 <div align="center">
-<h2>Hi, i am <span color="red">Saroyann</span></h2>
+<h2>Hi, i am Saroyann, i am a junior full stack developer and also junior mobile developer.
+I like to learn something new and have so many hobbies.</h2>
 </div>
 
 
