@@ -7,7 +7,6 @@
 <div align="center">
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
-<h3>About Me</h3> <br clear="right">
 <div align="right">
   <img src="https://giffiles.alphacoders.com/297/2970.gif">
 </div>
