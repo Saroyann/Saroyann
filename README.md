@@ -12,7 +12,7 @@
   
   <p align="left">Hello I am Saroyann, i am a junior full stack developer and also a junior mobile developer.
       I also an Enginner Informatic student from STMIK Widya Cipta Dharma Samarinda, i have so
-      many hobbies like drawing,make music,reading,and ofcourse coding.</p>
+      many hobbies like drawing,make music,reading,and of course coding.</p>
       
 <h3>💻Languanges</h3>
 <p float="left">
