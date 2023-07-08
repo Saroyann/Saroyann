@@ -8,9 +8,9 @@
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
 <div align="right">
+  <h3 float="left">About Me</h3>
   <img src="https://giffiles.alphacoders.com/297/2970.gif">
 </div>
-<h3 float="left">About Me</h3>
 <br>
 <h3>💻Languanges</h3>
 <p float="left">
