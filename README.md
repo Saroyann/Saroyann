@@ -10,7 +10,7 @@
   <img width="240px" height="190px" align="right" src="https://giffiles.alphacoders.com/297/2970.gif">
   <h3 align="left"><img src="https://img.icons8.com/?size=512&id=aFxfm4qI75vj&format=png" height="20px" width="20px">About Me</h3>
   
-  <p align="left">Hello I am Saroyann, i am a junior full stack developer and also a junior mobile developer.
+  <p align="left">Hello I am Saroyann, i am a junior full stack developer and junior mobile developer.
       I also an Enginner Informatic student from STMIK Widya Cipta Dharma Samarinda, i have so
       many hobbies like drawing,make music,reading,and of course coding.</p>
       
