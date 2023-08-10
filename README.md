@@ -7,6 +7,35 @@
 <div align="center">
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
+
+```zsh
+> neofetch
+```
+
+<img align="left" src="img/itsukinakano.png" width="130px"/> 
+
+```csharp
+My Profile v2.0.2: 破壊「はかい」
+-------------------------------
+Username: Yoshio Keima.
+WhoamI: physicist and Computer Engineer. Also musician (more or less).
+OS: Ubuntu 22.04.1 LTS.
+Shell: zsh 5.8
+Telegram: @yoshimakayaba.
+FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
+Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
+Pronouns: He-Him.
+Location: Planet Kepler-452b.
+Languages: C,C++, Python.
+Hobbyes: Python, C, C++.
+Learning: Swift, Kotlin.
+FavouriteSong: Sweeter than wine by NCW.
+FavouriteEquation: Fourier transform. 
+Hobbies: Gaming,Watching anime,Coding 
+while I am listening music.
+My Favourite singers (アイドル):  高橋李依 (Takahashi Rie) and  雨宮天 (Amamiya Sora). 🎤🎶🎼
+
+```
   
 <h3>💻Languanges</h3>
 <p float="left">
