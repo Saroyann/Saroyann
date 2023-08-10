@@ -53,6 +53,9 @@ const info = {
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 </p>
+
+---
+
 <div align="center">
   
 ![Saroyann's Stats](https://github-readme-stats.vercel.app/api?username=Saroyann&theme=monokai&show_icons=true&hide_border=false&count_private=true)
@@ -62,6 +65,8 @@ const info = {
 ![Saroyann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroyann&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
 </div> 
+
+---
 
 <div align="center">
 <img src="https://media.tenor.com/wGX3dI_kRUQAAAAC/girls-last-tour.gif">
