@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 </p>
 
+![Saroyann's Stats](https://github-readme-stats.vercel.app/api?username=Saroyann&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
+
  
 
 
