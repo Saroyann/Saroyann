@@ -8,6 +8,7 @@
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
 <img width="150px" align="left" src="https://o.remove.bg/downloads/303dabe0-ca13-419b-867f-e9f663bb9db0/341027-removebg-preview.png">
+<img width="150px" align="right" src="https://o.remove.bg/downloads/58f35df4-fc2c-4fde-9c1c-ed74643b3c78/Annotation_2023-08-10_212621-removebg-preview.png">
 
 ```javascript
 const info = {
@@ -21,7 +22,6 @@ const info = {
   email: "www.saroyan@gmail.com",
 };
 ```
-<img width="150px" align="right" src="https://o.remove.bg/downloads/58f35df4-fc2c-4fde-9c1c-ed74643b3c78/Annotation_2023-08-10_212621-removebg-preview.png">
 ---
 <div align="center">
 <img width="250px" src="https://media.tenor.com/tP6dRgAB2dIAAAAC/son.gif">
