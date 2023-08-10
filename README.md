@@ -22,7 +22,9 @@ const info = {
 };
 ```
 ---
-<img align="center" width="250px" src="https://media.tenor.com/tP6dRgAB2dIAAAAC/son.gif">
+<div align="center">
+<img width="250px" src="https://media.tenor.com/tP6dRgAB2dIAAAAC/son.gif">
+</div>
 <h3>💻Languanges</h3>
 <p float="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
