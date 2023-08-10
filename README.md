@@ -8,7 +8,6 @@
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
   <img width="200px" align="right" src="https://media.tenor.com/uKVf2mPx7swAAAAM/shoujo-shuumatsu-ryokou-girls-last-tour.gif">
-
 <h3>💻Languanges</h3>
 <p float="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
