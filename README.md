@@ -21,6 +21,8 @@ const info = {
   email: "www.saroyan@gmail.com",
 };
 ```
+---
+
 <h3>💻Languanges</h3>
 <p float="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
