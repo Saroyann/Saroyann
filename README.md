@@ -15,7 +15,7 @@ const info = {
   age: 20,
   gender: "male",
   occupation: "full stack developer",
-  hobbies: ["coding","drawing","reading"]
+  hobbies: ["coding","drawing","reading"],
   location: "East Kalimantan, Indonesian",
   interested_in: ["javascript", "java", "reactjs", "nextjs", "nodejs","springboot"],
   email: "www.saroyan@gmail.com",
