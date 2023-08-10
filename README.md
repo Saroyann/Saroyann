@@ -62,7 +62,7 @@ const info = {
 </div> 
 
 <div align="center">
-<img src="https://media.tenor.com/68U4gqzsC38AAAAd/brush-yuuri.gif">
+<img src="https://media.tenor.com/wGX3dI_kRUQAAAAC/girls-last-tour.gif">
 </div>
  
 
