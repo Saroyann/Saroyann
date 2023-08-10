@@ -7,6 +7,19 @@
 <div align="center">
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
+
+```javascript
+const info = {
+  fullName: "Le Xuan Huynh",
+  nickname: "huynhzip3",
+  age: 23,
+  gender: "male",
+  occupation: "web developer",
+  location: "the Earth",
+  interested_in: ["javascript", "typescript", "reactjs", "nextjs", "nodejs"],
+  email: "huynhlx62@wru.vn",
+};
+```
   
 <h3>💻Languanges</h3>
 <p float="left">
