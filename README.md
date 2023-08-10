@@ -21,6 +21,7 @@ const info = {
   email: "www.saroyan@gmail.com",
 };
 ```
+<img width="150px" align="right" src="https://o.remove.bg/downloads/58f35df4-fc2c-4fde-9c1c-ed74643b3c78/Annotation_2023-08-10_212621-removebg-preview.png">
 ---
 <div align="center">
 <img width="250px" src="https://media.tenor.com/tP6dRgAB2dIAAAAC/son.gif">
