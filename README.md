@@ -7,7 +7,7 @@
 <div align="center">
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
-<img width="140px" align="left" src="https://o.remove.bg/downloads/303dabe0-ca13-419b-867f-e9f663bb9db0/341027-removebg-preview.png">
+<img width="145px" align="left" src="https://o.remove.bg/downloads/303dabe0-ca13-419b-867f-e9f663bb9db0/341027-removebg-preview.png">
 
 ```javascript
 const info = {
