@@ -54,9 +54,9 @@ const info = {
 <div align="center">
   
 ![Saroyann's Stats](https://github-readme-stats.vercel.app/api?username=Saroyann&theme=monokai&show_icons=true&hide_border=false&count_private=true)
-<br>
+
 ![Saroyann's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saroyann&theme=monokai&hide_border=false)
-<br>
+
 ![Saroyann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroyann&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
 </div> 
