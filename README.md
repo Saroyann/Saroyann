@@ -7,23 +7,21 @@
 <div align="center">
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
-
+<img width="200px" align="right" src="https://media.tenor.com/uKVf2mPx7swAAAAM/shoujo-shuumatsu-ryokou-girls-last-tour.gif">
 ```javascript
 const info = {
-  fullName: "Le Xuan Huynh",
-  nickname: "huynhzip3",
-  age: 23,
+  fullName: "William Saroyan",
+  nickname: "Saroyann",
+  age: 20,
   gender: "male",
-  occupation: "web developer",
-  location: "the Earth",
-  interested_in: ["javascript", "typescript", "reactjs", "nextjs", "nodejs"],
-  email: "huynhlx62@wru.vn",
+  occupation: "full stack developer",
+  location: "East Kalimantan, Indonesian",
+  interested_in: ["javascript", "java", "reactjs", "nextjs", "nodejs","springboot"],
+  email: "www.saroyan@gmail.com",
 };
 ```
-  
 <h3>💻Languanges</h3>
 <p float="left">
-  <img width="200px" align="right" src="https://media.tenor.com/uKVf2mPx7swAAAAM/shoujo-shuumatsu-ryokou-girls-last-tour.gif">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
