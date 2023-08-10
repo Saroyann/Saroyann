@@ -17,7 +17,8 @@ const info = {
   occupation: "full stack developer",
   hobbies: ["coding","drawing","reading"],
   location: "East Kalimantan, Indonesian",
-  interested_in: ["javascript", "java", "reactjs", "nextjs", "nodejs","springboot"],
+  tech_stack: ["javascript", "java", "reactjs", "kotlin", "PHP",
+                "laravel","tailwindcss","bootstrap"],
   email: "www.saroyan@gmail.com",
 };
 ```
