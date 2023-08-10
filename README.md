@@ -8,6 +8,20 @@
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
   <img width="200px" align="right" src="https://media.tenor.com/uKVf2mPx7swAAAAM/shoujo-shuumatsu-ryokou-girls-last-tour.gif">
+  andri@Desktop42Lab
+---------------------------------------------------
+Username: Andri Lawrence.
+OS: Ubuntu 22.04.1 LTS on Windows 11 x86_64.
+Shell: bash 5.1.16
+Languages: C++, Python.
+Terminal: Windows Terminal.
+CPU: Intel i5-4690 (4) @ 3.495GHz.
+GPU: NVIDIA GeForce GTX 1060 6GB.
+Memory : 297MiB / 15906MiB
+Learning : ML, DL, DS, CyberSecurity.
+Hobbies: Cooking, Book, Airsoft, Music, and Gaming.
+Girlfriend: Kagami Chihiro ❤️.
+
 <h3>💻Languanges</h3>
 <p float="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
