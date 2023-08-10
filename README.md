@@ -57,6 +57,10 @@ const info = {
 
 ![Saroyann's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saroyann&theme=monokai&hide_border=false)
 
+<div align="center">
+<img src="https://media.tenor.com/wGX3dI_kRUQAAAAM/girls-last-tour.gif">
+</div>
+
 ![Saroyann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroyann&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
 </div> 
