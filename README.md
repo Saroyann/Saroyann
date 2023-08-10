@@ -18,7 +18,7 @@ const info = {
   hobbies: ["coding","drawing","reading"],
   location: "East Kalimantan, Indonesian",
   tech_stack: ["javascript", "java", "reactjs", "kotlin", "PHP",
-                "laravel","tailwindcss","bootstrap"],
+               "laravel","tailwindcss","bootstrap","html5","css3"],
   email: "www.saroyan@gmail.com",
 };
 ```
