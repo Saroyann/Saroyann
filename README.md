@@ -7,7 +7,7 @@
 <div align="center">
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
-<img width="150px" align="left" src="https://raw.githubusercontent.com/Saroyann/Saroyann/main/img/Annotation_2023-08-11_083342-removebg-preview.png">
+<img width="100px" align="left" src="https://raw.githubusercontent.com/Saroyann/Saroyann/main/img/Annotation_2023-08-11_083342-removebg-preview.png">
 
 ```javascript
 const info = {
