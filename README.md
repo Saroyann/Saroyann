@@ -8,7 +8,7 @@
   <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
 </div>
 <img width="90px" align="left" src="https://raw.githubusercontent.com/Saroyann/Saroyann/main/img/Annotation_2023-08-11_083342-removebg-preview.png">
-<img width="110px" align="right" src="https://o.remove.bg/downloads/48c4a577-f1bd-4b69-9e63-70a333fffefb/Annotation_2023-08-11_221312-removebg-preview.png">
+<img width="105px" align="right" src="https://o.remove.bg/downloads/48c4a577-f1bd-4b69-9e63-70a333fffefb/Annotation_2023-08-11_221312-removebg-preview.png">
 
 
 ```javascript
