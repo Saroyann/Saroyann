@@ -3,9 +3,9 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Saroyann/Saroyann/main/img/buat%20readme.jpg">
+<img src="https://raw.githubusercontent.com/Saroyann/Saroyann/refs/heads/main/img/Hello.png">
 <div align="center">
-  <h3>Junior Full Stack Developer | Junior Mobile Developer</h3>
+  <h3>Junior Full Stack Developer</h3>
 </div>
 <img width="80px" align="left" src="https://github.com/Saroyann/Saroyann/blob/main/img/Annotation_2023-08-12_113757-removebg-preview.png?raw=true">
 
@@ -18,7 +18,11 @@ const info = {
   occupation: "full stack developer",
   hobbies: ["coding","drawing","reading"],
   location: "East Kalimantan, Indonesian",
-  tech_stack: ["javascript", "java", "reactjs", "kotlin", "PHP", "laravel", "tailwindcss", "bootstrap", "html5"," css3"],
+  tech_stack: [
+"javascript", "Reactjs", "PHP",
+"Laravel", "Tailwindcss", "Bootstrap",
+"NodeJS"," expressJS", "MongoDB",
+"MySQL"],
   email: "www.saroyan@gmail.com",
 };
 ```
@@ -31,9 +35,9 @@ const info = {
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 <h3>📚Frameworks, Library, and Platforms</h3>
 <p float="left">
@@ -41,7 +45,7 @@ const info = {
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </p>
 <h3>⚙️Tools</h3>
 <p float="left">
@@ -54,7 +58,6 @@ const info = {
 <p float="left">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 </p>
 
 ---
